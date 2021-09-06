@@ -2,7 +2,7 @@
 ### Par šo profilu! 👋
 
 
-Tā pat kā daudziem citiem, arī mani GitHub publiskie projekti ir eksperimenti, skribilējumi vai jaunības dullumi un tie īstie, īstie projekti ir privāti, ha ha :ok_hand: :point_right: Bet, ja nopietni, ikdienā tiek izmantots darba vietas izmitināts Gitlab un GitHub palicis vairāk studiju dzīvei :point_left:
+Tā pat kā daudziem citiem, arī mani GitHub publiskie projekti ir eksperimenti, skribelējumi vai jaunības dullumi un tie īstie, īstie projekti ir privāti, ha ha :ok_hand: :point_right: Bet, ja nopietni, ikdienā tiek izmantots darba vietas izmitināts Gitlab un GitHub palicis vairāk studiju dzīvei :point_left:
 
 
 ### Ko es parasti daru
@@ -34,7 +34,7 @@ __E-pasts__: ivars@ivars.lv
 
 2013 - 2013:   Informācijas tehnoloģija Liepājas Pedagoģijas akadēmijā
 
-2012 - 2012:   Informācijas tehnoloģīja Latvijas Univeristātē
+2012 - 2012:   Informācijas tehnoloģija Latvijas Universitātē
 
 ... :          Vairāki mēģinājumi studēt datorzinātnes
 
@@ -45,9 +45,9 @@ __E-pasts__: ivars@ivars.lv
 
 ### Darba pieredze
 
-2019 - šodiena:  IT administrators
+2019 - šodiena:  IT administrators LiepU
 
-2017 - 2019:     vecākais datortīkla administrators
+2017 - 2019:     vecākais datortīkla administrators LiepU
 
 ...
 
@@ -61,7 +61,7 @@ Dažādi kursi. Meistarklases. Cert.lv rīkoto semināru klausītājs.
 
 ### Valodu zināšanas
 
-| Valoda                        |  Kā _es sevi_ novērētu               |
+| Valoda                        |  Kā _es sevi_ novērtētu               |
 | ----------------------------- |:-------------------------------------|  
 | Latviešu valoda               | :star: :star: :star:  :star:  :star: | 
 | Angļu valoda                  | :star: :star: :star:                 |
@@ -89,7 +89,7 @@ Protu izcept biskvītkūku un esmu mēģinājis brūvēt alu (tiesa, tādu, no k
 #### Pamatskola 
 
 Kaut arī neesmu tik vecs, pirmo koda rindiņu uzrakstīju vairāk kā pirms 20 gadiem. Dīvaini, ja ņem vērā, ka tajā laikā mācījos pamatskolas piektajā vai sestajā klasē, dzīvoju 10 km no Lietuvas robežas, kur, objektīvi vērtējot, kaut ko apgūt no programmēšanas nebija liela iespēja. 
-Vecākais brālis tad mācījās Liepājas Pedagoģijas Akadēmijā par informātijas skolotāju un nezinu kā, bet bija pierunājis vecākus iegādāties datoru, kas varētu palīdzēt studēt. Vasaras studiju pārtraukumā tas dators tika arī atvests uz laukiemm. Īsti neko no tā datora vairs neatceros, bet tas lietots maksāja aptuveni 60 vai 90 latus, bija IBM ražojums, cietais diska apjomi bija grandiozi 12 MB, tam bija divi 5.25" :floppy_disk: lasītāji, ekrānam bija kādas 4 krāsas un datorpeli nebija vērts meklēt, jo viss strādāja DOS vidē ar Volkov Commander čaulu. 
+Dažādu sakritību rezultātā, bija iespēja piesēsties pie veca datora. Daudz neko no tā datora vairs neatceros, bet tas lietots maksāja aptuveni 60 vai 90 latus, bija IBM ražojums, cietā diska apjomi bija grandiozi 12 MB, tam bija divi 5.25" :floppy_disk: lasītāji, ekrānam bija kādas 4 krāsas un datorpeli nebija vērts meklēt, jo viss strādāja DOS vidē ar Volkov Commander čaulu. 
 
 Kad tās dažas datorā pieejamās spēlēs bija izpēlētas līdz apnikumam, tika pamanīts, ka uz datora var kaut ko arī darīt citu. Tur bija it kā latviskots teksta redaktors LatRED (vai kā līdzīgi nosaukts), varēja programmēt Basic valodā ar QBasic izstrādes vidi. Tā kā literatūra par programmēšanu nebija pieejama, nācās iztikt ar F1 nospiešanu un instrukcijas izmantošanu. Tur bija funkciju apraksti un dažādi koda piemēri ar to izmantošanu.
 
