@@ -78,51 +78,11 @@ Vēlos vairāk iepazīt [Svelte](https://svelte.dev/), bet laiks ir tik, cik tas
 
 ### Nenozīmīgas prasmes
 
-Protu izcept biskvītkūku un esmu mēģinājis brūvēt alu (tiesa, tādu, no kura šausmīgi sāp galva). Ir autovadītāja tiesības un 0 soda punkti :blue_car:
+Ir autovadītāja tiesības un 0 soda punkti :blue_car:
 
 
 --------
 
 
-### Mani iesākumi programmēšanā.
 
-#### Pamatskola 
-
-Kaut arī neesmu tik vecs, pirmo koda rindiņu uzrakstīju vairāk kā pirms 20 gadiem. Dīvaini, ja ņem vērā, ka tajā laikā mācījos pamatskolas piektajā vai sestajā klasē, dzīvoju 10 km no Lietuvas robežas, kur, objektīvi vērtējot, kaut ko apgūt no programmēšanas nebija liela iespēja. 
-Dažādu sakritību rezultātā, bija iespēja piesēsties pie veca datora. Daudz neko no tā datora vairs neatceros, bet tas lietots maksāja aptuveni 60 vai 90 latus, bija IBM ražojums, cietā diska apjomi bija grandiozi 12 MB, tam bija divi 5.25" :floppy_disk: lasītāji, ekrānam bija kādas 4 krāsas un datorpeli nebija vērts meklēt, jo viss strādāja DOS vidē ar Volkov Commander čaulu. 
-
-Kad tās dažas datorā pieejamās spēlēs bija izpēlētas līdz apnikumam, tika pamanīts, ka uz datora var kaut ko arī darīt citu. Tur bija it kā latviskots teksta redaktors LatRED (vai kā līdzīgi nosaukts), varēja programmēt Basic valodā ar QBasic izstrādes vidi. Tā kā literatūra par programmēšanu nebija pieejama, nācās iztikt ar F1 nospiešanu un instrukcijas izmantošanu. Tur bija funkciju apraksti un dažādi koda piemēri ar to izmantošanu.
-
-Tā nu ņēmu kladīti, pārrakstīju kodu uz lapas un pēc tam drukāju to ekrānā, lai palaistu koda fragmentu un censtos saprast, kas no tā iznācis. Ja godīgi, tad viss tika saprasts ar eksperimentiem, jo cik atceros, īsti nemaz nezināju, ko nozīmē `INPUT` tiešais tulkojums, jo skolā pirmā svešvaloda bija vācu valoda.
-
-Galu galā viss nonāca līdz tam, kad bija iespēja kaut kādas programmas ierakstīt disketē. Piemēram, tā spēle, kur tev liek izdomāt krāsu, mīļāko ēdienu, gada laiku un citas lietas, līdz beigās tas viss tiek iepīts kaut kādā interesantā, reizēm smieklīgā stāstā. Kaut ko tādu uzprogrammēju un bija pat simulēta latviešu valoda vienkāršā veidā ierēķinot, kur varētu atrasties diakritiskā zīme.
-
-Ok, Markdown sintaksē grūti realizēt ideju, bet nu tāds darbs tika ieguldīts un ekrāna "kvalitātes" dēļ rezultāts bija tīri foršs.
-
-```BASIC
-PRINT "  _,, _   " 
-PRINT "glazskunis"
-PRINT "     '    "
-
-```
-
-Vienīgais testētājs - krustmātes meita bija pozitīvi iespaidota un gribēja vairākas reizes pildīt šādu anketu :blush:
-
-
-> P.S.
->
-> Starp citu, viena no 6 datorā esošām spēlēm bija [Dangerous Dave](https://www.playdosgames.com/online/dangerous-dave/) un [Karateka](https://www.retrogames.cz/play_210-DOS.php), kuras norādītājās saitēs var arī pamēģināt uzspēlēt.
-
-
-#### Profesionālā vidusskola
-
-Intravertums, varbūt tā viena vai otra piedalīšanās matemātikas olimpiādēs, nebaidīšanās no datoriem un spēja arī izbaudīt to, ka dators nav tikai spēļu iekārta, pēc pamatskolas mācības turpināju RTU LF PV, kur tika mācīts Pascal, Delphi, datubāzes un citas vairāk vai mazāk interesantas lietas.
-
-#### Augstskola
-
-Iestājos LiePA programmētājos un sāku strādāt vietējā televīzijā par pogas spaidošu tehniķi. Pametu mācības. Pēc tam vēl iestājos no jauna. Pametu, jo bija grūti savienot ar darbu. Tad atkal iestājos. Pametu. Tad nomainīju dzīvē nedaudz prioritātes un iestājos nu jau Liepājas Universitātē. 
-
-Universitāte ļāvusi studiju kursu veidā aplūkot C++, C#, Python, Java, MSSQL, MariaDB, PHP, Javascript, HTML (tā jau nav programmēšanas valode, ne), GIT un dažādas citas lietas.
-
-Tad nu vasarā tik jāiegūst bakalaurs. 
 
