@@ -52,16 +52,19 @@ __E-pasts__: ivars@ivars.lv
 ...
 
    
-### Papildus izglītība
+### Papildus izglītība, dalība semināros vai pieredzes projekti
 
-Dažādi kursi. Meistarklases. Cert.lv rīkoto semināru klausītājs. 
+* Mikrotik MTCNA sertifikāts, 2021. gada 13. janvāris
+* Sertifikāts par dalību seminārā "Git versionēšanas sistēma", 2019. gada 2.-3. decembris
+* Workshop "Web UI automation using Ruby, Cucumber and Capybara" with grade 9.5, 2019. gada oktobris
+* Atzinība LiepU Datorzinātņu olimpiādes Programmēšanas konkursā (studentiem), 2019. gada 6. aprīlī
+* Cert.lv rīkoto semināru klausītājs. 
 
-
-
+ 
 
 ### Valodu zināšanas
 
-| Valoda                        |  Kā _es sevi_ novērtētu               |
+| Valoda                        |  Kā _es sevi_ novērtētu              |
 | ----------------------------- |:-------------------------------------|  
 | Latviešu valoda               | :star: :star: :star:  :star:  :star: | 
 | Angļu valoda                  | :star: :star: :star:                 |
@@ -78,7 +81,7 @@ Vēlos vairāk iepazīt [Svelte](https://svelte.dev/), bet laiks ir tik, cik tas
 
 ### Nenozīmīgas prasmes
 
-Ir autovadītāja tiesības un 0 soda punkti :blue_car:
+Ir autovadītāja apliecība un 0 soda punkti :blue_car:
 
 
 --------
