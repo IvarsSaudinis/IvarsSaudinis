@@ -86,6 +86,6 @@ Ir autovadītāja apliecība un 0 soda punkti :blue_car:
 
 --------
 
-
+![](https://komarev.com/ghpvc/?username=IvarsSaudinis&color=orange)
 
 
