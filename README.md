@@ -1,15 +1,15 @@
 
 ### Par šo profilu! 👋
 
+Atvilktne ar dažādām lietām. Kaut kas te ir ielikts ar domu, ka nākotnē kaut reizi tas noteikti noderēs, bet pēc dažiem mēnešiem to atveram un jautājam sev – kam tas bija vajadzīgs?! Ir gan arī brīži - bāc, es jau biju aizmirsis, cik šis bija forši...
 
-Tā pat kā daudziem citiem, arī mani GitHub publiskie projekti ir eksperimenti, skribelējumi vai jaunības dullumi un tie īstie, īstie projekti ir privāti, ha ha :ok_hand: :point_right: Bet, ja nopietni, ikdienā tiek izmantots darba vietas izmitināts Gitlab un GitHub palicis vairāk studiju dzīvei :point_left:
 
+### Ko es kādreiz esmu darījis IT jomā
 
-### Ko es parasti daru
-
-| Kas ir tas, ko daru ikdienā   |  Kā _es sevi_ novērētu       |
+| Lietiņas                      |  Kā _es sevi_ novērētu       |
 | ----------------------------- |:-----------------------------|  
 | PHP (Laravel, Wordpress)      | :star: :star: :star:  :star: | 
+| React                         | :star: :star: :star:         |
 | IT lietu administrēšana       | :star: :star: :star:         |
 | Linux serveru administrēšana  | :star: :star: :star:         |
 | Datordzelžu lietas, printeri  | :star: :star:                |
@@ -18,7 +18,7 @@ Tā pat kā daudziem citiem, arī mani GitHub publiskie projekti ir eksperimenti
 | Lietotāju IT atbalsts         | :star: :star: :star:         |
 
 
-Jā, reizēm ir jādara tik daudz, ka pārņem negatīva sajūta, ka es daudz ko zinu, bet reti kur esmu speciālists
+ 
 
 --------
 ## Mans aptuvenais CV
@@ -30,13 +30,13 @@ __E-pasts__: ivars@ivars.lv
 
 ### Izglītība
 
-2018 - šobrīd: Studijas Liepājas Universitātē, Dabas un inženierzinātņu fakultātē, informācijas tehnoloģija programmā (4. kurss) 
+2018 - 2022:   Studijas Liepājas Universitātē, IT bakalaurs 
 
 2013 - 2013:   Informācijas tehnoloģija Liepājas Pedagoģijas akadēmijā
 
 2012 - 2012:   Informācijas tehnoloģija Latvijas Universitātē
 
-... :          Vairāki mēģinājumi studēt datorzinātnes
+... :          Dažādi dullumi
 
 2006 - 2006:   Programmēšanas un lietišķās datorzinātnes LPA
 
@@ -45,7 +45,11 @@ __E-pasts__: ivars@ivars.lv
 
 ### Darba pieredze
 
-2019 - šodiena:  IT administrators LiepU
+2023 - tagad: Laravel programmētājs ICT
+
+2022 - 2023:  Programmētājs (react, c#) S-Tec
+
+2019 - 2022:  IT administrators LiepU
 
 2017 - 2019:     vecākais datortīkla administrators LiepU
 
